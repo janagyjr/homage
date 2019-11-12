@@ -1,2 +1,3 @@
-# homage
-Homage is a modpack dedicated to one of the best modders in Minecraft: McJty. As this pack grows, it will focus on exposing you to his many great mods as you go through the game.
+# Homage: A Travel Through McJty's Mods
+
+Homage is meant to be a tribute to someone whose mods I really love. Yes, more than that mod, and that one, and the other one over there. McJty's mods allow you to do things in ways that aren't always obvious but always fun and innovative. 
