@@ -1,4 +1,33 @@
 # TCG Plays Minecraft LP Pack  
+## "Beta Re-Release" Update  
+### Version 0.0.5  
+### Mods Added  
+- N/A  
+
+### Mods Updated  
+- Actually Additions (r150 > r151)  
+- Biomes O' Plenty (7.0.1.2441-universal > 7.0.1.2443-universal)  
+- Chisel (0.2.1.35 > 1.0.1.44)  
+- CTM (0.3.3.22 > 1.0.0.29)  
+- Flux Networks (3.0.19-21 > 4.0.13-30)  
+- FTB Library (5.4.3.134 > 5.4.4.4)  
+- FTB Utilities Backups (1.0.0.5 > 1.1.0.1)  
+- Just Enough Energistics (1.0.7 > 1.0.8)  
+- Just Enough Items (4.15.0.289 > 4.15.0.292)  
+- LibraryEx (1.0.11 > 1.0.12)  
+- NetherEx (2.0.13 > 2.0.15)  
+- OreExcavation (1.4.140 > 1.4.143)  
+- PlusTiC (7.1.4.1 > 7.1.6.1)  
+- Tinkers Construct (2.12.0.157 > 2.13.0.171)  
+- UniDict (2.9.2 > 2.9.3)  
+- WanionLib (2.2 > 2.4)  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- N/A  
+
 ## "Beta Release" Update  
 ### Version 0.0.4  
 ### Mods Added  
