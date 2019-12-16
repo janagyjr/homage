@@ -1,6 +1,6 @@
 # TCG Plays Minecraft LP Pack  
 ## Better Beta Release Update  
-### Version 0.0.6  
+### Version 0.1.0  
 ### Mods Updated  
 - /dank/null (1.6.80 > 1.7.89)  
 - AE2 Wirless Terminal Library (1.0.30 > 1.0.34)  
@@ -29,7 +29,28 @@
 - N/A  
 
 ### Configuration Changes  
-- N/A  
+- CraftTweaker: Disabled custom philosopher's stone recipe until custom EMC could be added to relevant blocks.  
+- Applied Energistics: Changed AE2 search mode to AUTOSEARCH_KEEP; disabled version checking  
+- CofH: Increased bedrock layers to 3  
+- Iron Backpacks: Increased max nesting depth to 12 from 1  
+- JEI: Centered searchbar by default  
+- NetherEx: Re-enabled nether fog; increased rarity of nethermite's spawning (from 64 to 6400)  
+- AE2WirelessTerminals: Enabled old infinity booster mechanic instead of new one  
+- ChickenChunks: Set max-size per chunkloader to 12500 (for those crazy people who like "everything" around their main base)  
+- Chisel: Decreased concrete block velocity setting  
+- Cooking for Blockheads: Increased oven cook time modifier from 1.0 to 3.0  
+- CTM: Connecting textures on inside corners  
+- Dynamic Trees: Increased the voluntary seed drop rate from 0.0 to 0.2  
+- Forge: Disabled the entire version check system  
+- FTB Backups: changed compression_level from 1 to 5; enabled forced backups on shutdown  
+- FTB Lib: set merge_offline_mode_players from TRUE to DEFAULT  
+- iChunUtil: Hid update checking notifications, will be submitting bug report to have behavior changed; disabled update notifications  
+- In-Game Wiki mod: Disabled notification about support  
+- JourneyMap_Server: Removed default JM server admin settings  
+- p44w0rdsLib: disabled shader support  
+- Quark: Disabled 'q' button in main menu  
+- Storage Drawers: Increased controller range to 36, because why not?  
+- Waystones: Enabled JourneyMap compat  
 
 ### Other Notes  
 - N/A  
