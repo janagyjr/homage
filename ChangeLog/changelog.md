@@ -1,5 +1,62 @@
 # TCG Plays Minecraft LP Pack  
 ## "Beta Re-Release" Update  
+## Better Beta Release Update  
+### Version 0.1.0  
+### Mods Updated  
+- /dank/null (1.6.80 > 1.7.89)  
+- AE2 Wirless Terminal Library (1.0.30 > 1.0.34)  
+- Biomes O'Plenty (7.0.1.2443-universal > 7.0.1.2444-universal)  
+- Connected Textures Mod (1.0.0.29 > 1.0.0.30)  
+- CraftTweaker (4.1.19 > 4.1.20)  
+- Farseek (2.3.2 > 2.4)  
+- Flux Networks (4.0.13-30 > 4.0.14-31)  
+- FTB Library (5.4.4.4 > 5.4.4.5)  
+- JourneyMap (5.5.5 > 5.5.6b4)  
+- p44w0rd's Library (2.2.156 > 2.3.161)  
+- Wireless Crafting Terminal (3.12.93 > 3.12.97)  
+
+### Mods Added  
+- AppleSkin 1.0.9  
+- Mob Dismemberment 7.0.0  
+- Sound Filters 0.11  
+- Dynamic Surroundings 3.6.0.2  
+- Dynamic Surroundings: Hud 3.6.0.0  
+- Dynamic Trees 0.9.6  
+- Dynamic Trees - Biomes O' Plenty Compat 1.4.1e  
+- FoamFix for Minecraft 0.10.9  
+- Mouse Tweaks 2.10  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- Applied Energistics: Changed AE2 search mode to AUTOSEARCH_KEEP; disabled version checking  
+- CofH: Increased bedrock layers to 3  
+- Iron Backpacks: Increased max nesting depth to 12 from 1  
+- JEI: Centered searchbar by default  
+- NetherEx: Re-enabled nether fog; increased rarity of nethermite's spawning (from 64 to 6400)  
+- AE2WirelessTerminals: Enabled old infinity booster mechanic instead of new one  
+- ChickenChunks: Set max-size per chunkloader to 12500 (for those crazy people who like "everything" around their main base)  
+- Chisel: Decreased concrete block velocity setting  
+- Cooking for Blockheads: Increased oven cook time modifier from 1.0 to 3.0  
+- CTM: Connecting textures on inside corners  
+- Dynamic Trees: Increased the voluntary seed drop rate from 0.0 to 0.2  
+- Forge: Disabled the entire version check system  
+- FTB Backups: changed compression_level from 1 to 5; enabled forced backups on shutdown  
+- FTB Lib: set merge_offline_mode_players from TRUE to DEFAULT  
+- iChunUtil: Hid update checking notifications, will be submitting bug report to have behavior changed; disabled update notifications  
+- In-Game Wiki mod: Disabled notification about support  
+- JourneyMap_Server: Removed default JM server admin settings  
+- p44w0rdsLib: disabled shader support  
+- Quark: Disabled 'q' button in main menu  
+- Storage Drawers: Increased controller range to 36, because why not?  
+- Waystones: Enabled JourneyMap compat  
+- ProjectE: Custom EMC values added to Biomes O' Plenty jewels so custom recipe for Philosopher's stone doesn't break things badly  
+
+### Other Notes  
+- All the added mods were for various 'Quality of Life' improvements (sound effects, mob gibbing, tree variation, better hunger visualization, and the like).  
+- This is currently a universal modpack (e.g. it's the only thing available for S(S/M)P). There will be a server pack being made.  
+
 ### Version 0.0.5  
 ### Mods Added  
 - N/A  
