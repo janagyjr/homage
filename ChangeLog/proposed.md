@@ -10,7 +10,7 @@
 - Farseek (2.3.2 > 2.4)  
 - Flux Networks (4.0.13-30 > 4.0.14-31)  
 - FTB Library (5.4.4.4 > 5.4.4.5)  
-- JourneyMap (5.5.5 > 5.5.6b3)  
+- JourneyMap (5.5.5 > 5.5.6b4)  
 - p44w0rd's Library (2.2.156 > 2.3.161)  
 - Wireless Crafting Terminal (3.12.93 > 3.12.97)  
 
@@ -29,7 +29,6 @@
 - N/A  
 
 ### Configuration Changes  
-- CraftTweaker: Disabled custom philosopher's stone recipe until custom EMC could be added to relevant blocks.  
 - Applied Energistics: Changed AE2 search mode to AUTOSEARCH_KEEP; disabled version checking  
 - CofH: Increased bedrock layers to 3  
 - Iron Backpacks: Increased max nesting depth to 12 from 1  
@@ -51,9 +50,11 @@
 - Quark: Disabled 'q' button in main menu  
 - Storage Drawers: Increased controller range to 36, because why not?  
 - Waystones: Enabled JourneyMap compat  
+- ProjectE: Custom EMC values added to Biomes O' Plenty jewels so custom recipe for Philosopher's stone doesn't break things badly  
 
 ### Other Notes  
-- N/A  
+- All the added mods were for various 'Quality of Life' improvements (sound effects, mob gibbing, tree variation, better hunger visualization, and the like).  
+- This is currently a universal modpack (e.g. it's the only thing available for S(S/M)P). There will be a server pack being made.  
 
 ## "Beta Re-Release" Update  
 ### Version 0.0.5  
