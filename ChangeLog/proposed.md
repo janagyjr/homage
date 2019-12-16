@@ -1,4 +1,39 @@
 # TCG Plays Minecraft LP Pack  
+## Better Beta Release Update  
+### Version 0.0.6  
+### Mods Updated  
+- /dank/null (1.6.80 > 1.7.89)  
+- AE2 Wirless Terminal Library (1.0.30 > 1.0.34)  
+- Biomes O'Plenty (7.0.1.2443-universal > 7.0.1.2444-universal)  
+- Connected Textures Mod (1.0.0.29 > 1.0.0.30)  
+- CraftTweaker (4.1.19 > 4.1.20)  
+- Farseek (2.3.2 > 2.4)  
+- Flux Networks (4.0.13-30 > 4.0.14-31)  
+- FTB Library (5.4.4.4 > 5.4.4.5)  
+- JourneyMap (5.5.5 > 5.5.6b3)  
+- p44w0rd's Library (2.2.156 > 2.3.161)  
+- Wireless Crafting Terminal (3.12.93 > 3.12.97)  
+
+### Mods Added  
+- AppleSkin 1.0.9  
+- Mob Dismemberment 7.0.0  
+- Sound Filters 0.11  
+- Dynamic Surroundings 3.6.0.2  
+- Dynamic Surroundings: Hud 3.6.0.0  
+- Dynamic Trees 0.9.6  
+- Dynamic Trees - Biomes O' Plenty Compat 1.4.1e  
+- FoamFix for Minecraft 0.10.9  
+- Mouse Tweaks 2.10  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- N/A  
+
+### Other Notes  
+- N/A  
+
 ## "Beta Re-Release" Update  
 ### Version 0.0.5  
 ### Mods Added  
