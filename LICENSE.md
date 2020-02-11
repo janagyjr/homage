@@ -1,5 +1,5 @@
 # LICENSE  
-This pack is released under the terms of the [Open Works License](http://owl.apotheon.org/)  
+This pack is released under the terms of the [Open Works License](http://copyfree.org/content/standard/licenses/owl/license.txt)  
 
 ## Open Works License  
 
