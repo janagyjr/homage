@@ -1,4 +1,4 @@
-# TCG Plays Minecraft LP Pack  
+# Homage  
 ## Better Beta Release Update  
 ### Version 0.1.0  
 ### Mods Updated  
