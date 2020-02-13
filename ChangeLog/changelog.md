@@ -1,5 +1,38 @@
-# TCG Plays Minecraft LP Pack  
-## "Beta Re-Release" Update  
+# Homage
+## Honing In Recipes Update  
+### Version 0.1.1  
+### Mods Updated  
+- Actually Additions (r151 > r151-2)  
+- Cooking for Blockheads (6.4.71 > 6.5.0)  
+- CustomMainMenu (2.0.9 > 2.0.9.1)  
+- Dynamic Trees (0.9.6 > 0.9.7)  
+- ElecCore (1.9.452 > 1.9.453)  
+- ExtraCells (2.6.4 > 2.6.5)  
+- FoamFix (0.10.9 > 0.10.10)  
+- Inventory Tweaks (1.64+dev.146 > 1.64+dev.150)  
+- JEI (4.15.0.292 > 4.15.0.293)  
+- JourneyMap (5.5.6b4 > 5.5.9)  
+- Lost Cities (2.0.21 > 2.0.22)  
+- RFTools (7.72 > 7.73)  
+- Streams (0.4.7 > 0.4.8)  
+- Tinkers Construct (2.13.0.171 > 2.13.0.179)  
+- UniDict (2.9.3 > 2.9.6)  
+- Waystones (4.0.72 > 4.1.0)  
+
+### Mods Added  
+- N/A  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- ExtraCells: Disabled In-Game Wiki mod integration  
+- ProjectE Added custom EMC to more items  
+- Dynamic Surroundings: Disabling the fog.
+
+### Other Notes  
+- N/A  
+
 ## Better Beta Release Update  
 ### Version 0.1.0  
 ### Mods Updated  
@@ -14,6 +47,7 @@
 - JourneyMap (5.5.5 > 5.5.6b4)  
 - p44w0rd's Library (2.2.156 > 2.3.161)  
 - Wireless Crafting Terminal (3.12.93 > 3.12.97)  
+
 
 ### Mods Added  
 - AppleSkin 1.0.9  
@@ -57,6 +91,7 @@
 - All the added mods were for various 'Quality of Life' improvements (sound effects, mob gibbing, tree variation, better hunger visualization, and the like).  
 - This is currently a universal modpack (e.g. it's the only thing available for S(S/M)P). There will be a server pack being made.  
 
+## "Beta Re-Release" Update  
 ### Version 0.0.5  
 ### Mods Added  
 - N/A  
@@ -129,7 +164,7 @@
 
 ### Other Notes  
 - This could be the final mod additions before I begin configuration of the individual mods so the pack has the right 'feel' that I'm looking for. If I get the hankering for custom recipes - which I very well might - expect the relevant mods to be added to the pack. At that point I will also look into a custom title screen.  
-- It is recommended to use Forge chunkloading in the overworld and chicken chunks everywhere else.   
+- It is recommended to use Forge chunkloading in the overworld and chicken chunks everywhere else.  
 
 ## "Mods-R-Us" release  
 ### Version 0.0.3  
@@ -186,7 +221,7 @@
 
 ### Other Notes  
 
-## Chicken Updates release
+## Chicken Updates release  
 ### Version 0.0.2  
 ### Mods Added
 - Roost 1.12.2-2.0.10  
@@ -197,7 +232,8 @@
 ### Changes Made  
 - Not Applicable  
 
-## Initial 'I Love Minecraft' release  
+
+##Initial "I Love Minecraft" release
 ### Version 0.0.1  
 ### Mods Added  
 - /dank/null 1.12-1.4.46  
@@ -285,4 +321,4 @@
 - Not Applicable  
 
 ### Changes to Config Files  
-- Not Applicable  
+-
