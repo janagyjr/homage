@@ -1,4 +1,22 @@
-# TCG Plays Minecraft LP Pack  
+# Homage
+## "Honing In Recipes" Update  
+### Version 0.1.1  
+### Mods Updated  
+- N/A  
+
+### Mods Added  
+- N/A  
+
+### Mods Removed  
+- N/A  
+
+### Configuration Changes  
+- ExtraCells: Disabled In-Game Wiki mod integration  
+- ProjectE Added custom EMC to more items
+
+### Other Notes  
+- N/A  
+
 ## Better Beta Release Update  
 ### Version 0.1.0  
 ### Mods Updated  
@@ -51,6 +69,7 @@
 - Storage Drawers: Increased controller range to 36, because why not?  
 - Waystones: Enabled JourneyMap compat  
 - ProjectE: Custom EMC values added to Biomes O' Plenty jewels so custom recipe for Philosopher's stone doesn't break things badly  
+- Dynamic Surroundings: Disabling the fog. 
 
 ### Other Notes  
 - All the added mods were for various 'Quality of Life' improvements (sound effects, mob gibbing, tree variation, better hunger visualization, and the like).  

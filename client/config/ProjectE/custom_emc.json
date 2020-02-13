@@ -35,6 +35,14 @@
     {
       "item": "biomesoplenty:gem|7",
       "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:white_dye|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
     }
   ]
 }
