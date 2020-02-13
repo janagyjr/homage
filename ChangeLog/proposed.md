@@ -20,17 +20,33 @@
 ## Better Beta Release Update  
 ### Version 0.1.0  
 ### Mods Updated  
+- Actually Additions (r151 > r151-2)  
 - /dank/null (1.6.80 > 1.7.89)  
 - AE2 Wirless Terminal Library (1.0.30 > 1.0.34)  
 - Biomes O'Plenty (7.0.1.2443-universal > 7.0.1.2444-universal)  
 - Connected Textures Mod (1.0.0.29 > 1.0.0.30)  
+- Cooking for Blockheads (6.4.71 > 6.5.0)  
 - CraftTweaker (4.1.19 > 4.1.20)  
+- CustomMainMenu (2.0.9 > 2.0.9.1)  
+- Dynamic Trees (0.9.6 > 0.9.7)  
+- ElecCore (1.9.452 > 1.9.453)  
+- ExtraCells (2.6.4 > 2.6.5)  
 - Farseek (2.3.2 > 2.4)  
 - Flux Networks (4.0.13-30 > 4.0.14-31)  
+- FoamFix (0.10.9 > 0.10.10)  
 - FTB Library (5.4.4.4 > 5.4.4.5)  
 - JourneyMap (5.5.5 > 5.5.6b4)  
 - p44w0rd's Library (2.2.156 > 2.3.161)  
 - Wireless Crafting Terminal (3.12.93 > 3.12.97)  
+- Inventory Tweaks (1.64+dev.146 > 1.64+dev.150)  
+- JEI (4.15.0.292 > 4.15.0.293)  
+- JourneyMap (5.5.6b4 > 5.5.9)  
+- Lost Cities (2.0.21 > 2.0.22)  
+- RFTools (7.72 > 7.73)  
+- Streams (0.4.7 > 0.4.8)  
+- Tinkers Construct (2.13.0.171 > 2.13.0.179)  
+- UniDict (2.9.3 > 2.9.6)  
+- Waystones (4.0.72 > 4.1.0)  
 
 ### Mods Added  
 - AppleSkin 1.0.9  
@@ -69,7 +85,7 @@
 - Storage Drawers: Increased controller range to 36, because why not?  
 - Waystones: Enabled JourneyMap compat  
 - ProjectE: Custom EMC values added to Biomes O' Plenty jewels so custom recipe for Philosopher's stone doesn't break things badly  
-- Dynamic Surroundings: Disabling the fog. 
+- Dynamic Surroundings: Disabling the fog.
 
 ### Other Notes  
 - All the added mods were for various 'Quality of Life' improvements (sound effects, mob gibbing, tree variation, better hunger visualization, and the like).  
