@@ -1,4 +1,23 @@
 # Homage
+## Honing In Recipes Update 2: Mega Update
+### Version 0.1.2
+### Mods Updated  
+- N/A  
+
+### Mods Added  
+- N/A  
+
+### Mods Removed  
+- /dank/null  
+- Iron Backpacks  
+- Iron Chests  
+
+### Configuration Changes  
+- N/A  
+
+### Other Notes  
+- N/A  
+
 ## Honing In Recipes Update  
 ### Version 0.1.1  
 ### Mods Updated  
@@ -28,7 +47,8 @@
 ### Configuration Changes  
 - ExtraCells: Disabled In-Game Wiki mod integration  
 - ProjectE Added custom EMC to more items  
-- Dynamic Surroundings: Disabling the fog.
+- Dynamic Surroundings: Disabling the fog.  
+- Finally added a Custom Main Menu image and links.
 
 ### Other Notes  
 - N/A  
@@ -49,7 +69,6 @@
 - JourneyMap (5.5.5 > 5.5.6b4)  
 - p44w0rd's Library (2.2.156 > 2.3.161)  
 - Wireless Crafting Terminal (3.12.93 > 3.12.97)  
-
 
 ### Mods Added  
 - AppleSkin 1.0.9  
@@ -219,9 +238,10 @@
 -  N/A  
 
 ### Configuration Changes  
--  
+- N/A  
 
 ### Other Notes  
+- N/A  
 
 ## Chicken Updates release  
 ### Version 0.0.2  
@@ -232,8 +252,7 @@
 - Hatchery  
 
 ### Changes Made  
-- Not Applicable  
-
+- N/A  
 
 ##Initial "I Love Minecraft" release
 ### Version 0.0.1  
@@ -320,7 +339,7 @@
 - XNet 1.12-1.8.1  
 
 ### Mods Removed  
-- Not Applicable  
+- N/A  
 
 ### Changes to Config Files  
--
+- N/A  

@@ -10,7 +10,7 @@
             "height" : 512,
             "alignment" : "top_center"
         },
-        
+
         "edition":
         {
             "image" : "custommainmenu:textures/gui/edition.png",
@@ -21,7 +21,7 @@
             "alignment" : "top_center"
         }
     },
-    
+
     "buttons":
     {
         "singleplayer":
@@ -31,13 +31,13 @@
             "posY" : 48,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
             }
         },
-        
+
         "multiplayer":
         {
             "text" : "menu.multiplayer",
@@ -45,13 +45,13 @@
             "posY" : 72,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
         },
-        
+
         "mods":
         {
             "text" : "fml.menu.mods",
@@ -59,13 +59,13 @@
             "posY" : 96,
             "width" : 200,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "mods"
             }
         },
-            
+
         "options":
         {
             "text" : "menu.options",
@@ -73,13 +73,13 @@
             "posY" : 132,
             "width" : 98,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "options"
             }
         },
-        
+
         "quit":
         {
             "text" : "menu.quit",
@@ -87,12 +87,40 @@
             "posY" : 132,
             "width" : 98,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "quit"
             }
         },
-        
+
+        "Support":
+        {
+            "text" : "Support",
+            "posX" : 2,
+            "posY" : 162,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openLink",
+		    "link" : "https://github.com/janagyjr/homage"
+            }
+        },
+
+        "Discord":
+        {
+            "text" : "Discord",
+            "posX" : -100,
+            "posY" : 162,
+            "width" : 98,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "http://modpacks.tcgjoe.us"
+            }
+        },
+
         "language":
         {
             "text" : "",
@@ -100,13 +128,13 @@
             "posY" : 132,
             "width" : 20,
             "height" : 20,
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "languages"
             }
         },
-        
+
         "refresh":
         {
             "text" : "",
@@ -115,30 +143,30 @@
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
-            "action" : 
+            "action" :
             {
                 "type" : "refresh"
             }
         }
     },
-    
+
     "labels":
     {
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "hoverText" : "ï¿½nCopyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
             "alignment" : "bottom_right",
-            "action" : 
+            "action" :
             {
                 "type" : "openGui",
                 "gui" : "credits"
             }
         },
-        
+
         "fml":
         {
             "text" : "",
@@ -148,7 +176,7 @@
             "alignment" : "bottom_left"
         }
     },
-    
+
     "other":
     {
         "splash-text":
@@ -159,14 +187,11 @@
             "alignment" : "top_center",
             "texts" : "file:minecraft:texts/splashes.txt"
         },
-        
-        "panorama":
+
+        "background":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
-            "animate" : true,
-            "animationSpeed" : 1,
-            "blur" : true,
-            "gradient" : true
+            "image" : "homage:textures/gui/background.png",
+            "mode" : "fill"
         }
     }
 }
