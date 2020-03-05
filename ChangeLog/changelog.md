@@ -13,7 +13,7 @@
 - Iron Chests  
 
 ### Configuration Changes  
-- N/A  
+- Custom Main Menu configured and Discord & Github buttons added  
 
 ### Other Notes  
 - N/A  
