@@ -16,7 +16,7 @@
 - Custom Main Menu configured and Discord & Github buttons added  
 
 ### Other Notes  
-- Over 400 custom emc values added  
+- Over 400 emc values added or changed  
 
 ## Honing In Recipes Update  
 ### Version 0.1.1  
