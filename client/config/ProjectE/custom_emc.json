@@ -43,6 +43,914 @@
     {
       "item": "minecraft:blaze_powder|0",
       "emc": 768
+    },
+    {
+      "item": "ae2stuff:encoder|0",
+      "emc": 0
+    },
+    {
+      "item": "ae2stuff:grower|0",
+      "emc": 0
+    },
+    {
+      "item": "ae2stuff:inscriber|0",
+      "emc": 0
+    },
+    {
+      "item": "ae2stuff:wireless|0",
+      "emc": 0
+    },
+    {
+      "item": "extracells:hardmedrive|0",
+      "emc": 0
+    },
+    {
+      "item": "extracells:fluidfiller|0",
+      "emc": 0
+    },
+    {
+      "item": "extracells:fluidcrafter|0",
+      "emc": 0
+    },
+    {
+      "item": "extracells:certustank|0",
+      "emc": 0
+    },
+    {
+      "item": "extracells:vibrantchamberfluid|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:quantum_link|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:crafting_monitor|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:dense_energy_cell|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:molecular_assembler|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:condenser|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:io_port|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:drive|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:security_station|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:charger|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:inscriber|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:quantum_ring|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:spatial_pylon|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:interface|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:cell_workbench|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:energy_acceptor|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:energy_cell|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:crafting_storage_1k|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:crafting_storage_64k|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:chest|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:spatial_io_port|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:crafting_storage_4k|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:vibration_chamber|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:quartz_growth_accelerator|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:fluid_interface|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:crafting_storage_16k|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:crafting_accelerator|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:crafting_unit|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:stone_slab|3",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stone_stairs|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stone_brick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:red_sandstone_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "biomesoplenty:mud_brick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "biomesoplenty:white_sandstone_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "netherex:icy_nether_brick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "netherex:fiery_nether_brick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "netherex:lively_nether_brick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "netherex:gloomy_nether_brick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "netherex:basalt_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:mudbrick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:biotite_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_brick|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_brick_fancy|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_brick_square|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_brick_triangle|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:icy_stone_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_stone|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_cobble|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_paver|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:lavawood_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:firewood_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:elder_prismarine_bricks_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:fire_stone_brick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:fire_stone_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:stone_slate_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_tile|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_road|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:stone_basalt_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:snow_bricks_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:icy_stone_brick_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:elder_prismarine_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "quark:elder_prismarine_dark_stairs|0",
+      "emc": 6
+    },
+    {
+      "item": "tconstruct:seared_stairs_brick_small|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:glass_pane|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|0",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|1",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|2",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|3",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|4",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|5",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|6",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|7",
+      "emc": 1
+    },
+    {
+      "item": "quark:smoker|0",
+      "emc": 64
+    },
+    {
+      "item": "quark:marble_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:elder_prismarine_dark_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:biotite_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:basalt_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:limestone_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:icy_stone_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_slate_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:jasper_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:slate_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:elder_prismarine_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:elder_prismarine_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:fire_stone_brick_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_jasper_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:fire_stone_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:icy_stone_brick_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "netherex:basalt_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "netherex:smooth_basalt_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "netherex:basalt_brick_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "netherex:basalt_pillar_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:sandstone_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:red_sandstone_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_basalt_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_marble_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "quark:stone_limestone_bricks_wall|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:stained_glass_pane|8",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|9",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|10",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|11",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|12",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|13",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|14",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stained_glass_pane|15",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|8",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblack|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|10",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|11",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblack|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|7",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane1|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|15",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane1|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblack|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblack|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|12",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|9",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|6",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblack|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblack|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|13",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|14",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspane|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedred|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedred|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedred|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedred|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedred|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedred|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgreen|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgreen|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgreen|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgreen|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgreen|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgreen|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedbrown|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedbrown|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedbrown|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedbrown|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedbrown|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedbrown|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblue|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblue|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblue|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblue|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblue|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedblue|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpurple|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpurple|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpurple|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpurple|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpurple|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpurple|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedcyan|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedcyan|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedcyan|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightgray|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedcyan|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgray|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightgray|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedcyan|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpink|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgray|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightgray|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedcyan|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgray|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgray|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpink|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpink|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpink|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpink|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightgray|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightgray|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightgray|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedpink|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgray|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedgray|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlime|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlime|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlime|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlime|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlime|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlime|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedyellow|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedyellow|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedyellow|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedyellow|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedyellow|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedyellow|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightblue|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightblue|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedmagenta|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedmagenta|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightblue|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedmagenta|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedmagenta|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightblue|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightblue|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedlightblue|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedmagenta|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedmagenta|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedorange|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedorange|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedorange|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedorange|3",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedorange|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedorange|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedwhite|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedwhite|1",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedwhite|2",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedwhite|5",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedwhite|4",
+      "emc": 1
+    },
+    {
+      "item": "chisel:glasspanedyedwhite|3",
+      "emc": 1
     }
   ]
 }
