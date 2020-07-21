@@ -32,10 +32,13 @@
 - Tinker's Construct (2.13.0.179 > 2.13.0.183)  
 
 ### Mods Added  
-- 
+- Building Gadgets 2.8.4  
 
 ### Mods Removed  
 - PlusTiC  
+
+### Configuration Changes  
+- Configured CoFH to avoid duplicate ore gen. 
 
 ## Honing In Recipes Update 2: Mega Update
 ### Version 0.1.2
