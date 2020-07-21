@@ -38,7 +38,9 @@
 - PlusTiC  
 
 ### Configuration Changes  
-- Configured CoFH to avoid duplicate ore gen. 
+- Configured CoFH to avoid duplicate ore gen.  
+- Turned off quark config command, reduced sleeping percentage to 1 for smp  
+
 
 ## Honing In Recipes Update 2: Mega Update
 ### Version 0.1.2
