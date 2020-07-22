@@ -1,4 +1,47 @@
 # Homage
+## Mod Update: Mega Update 2  
+### Version 0.2.0  
+### Mods Updated  
+- /dank/null (1.7.89 > 1.7.101)  
+- AppleCore (3.2.0 > 3.4.0)  
+- AppleSkin (1.0.9 > 1.0.14)  
+- Chisel (1.0.1.44 > 1.0.2.45)  
+- COFH Core (4.6.3.27 > 4.6.6.1)  
+- COFH World (1.3.1.7 > 1.4.0.1)  
+- Connected Textures Mod (1.0.1.30 > 1.0.2.31)  
+- CraftTweaker 2 (4.1.20 > 4.1.20.581)  
+- Dynamic Surroundings (3.6.0.2 > 3.6.1.0)  
+- Dynamic Trees (0.9.7 > 0.9.8)  
+- Farseek (2.4 > 2.5)  
+- Flux Networks (4.0.14-31 > 4.0.15-32)  
+- FTB Library (5.4.4.5 > 5.4.7.2)  
+- Inventory Tweaks (1.64+dev.150 > 1.64+dev.151)  
+- JourneyMap (5.5.9 > 5.7.1)  
+- Just Enough Items (4.15.0.293 > 4.15.0.297)  
+- LibraryEx (1.0.12 > 1.1.3)  
+- NetherEx (2.0.15 > 2.1.8)  
+- OreExcavation (1.4.143 > 1.4.150)  
+- Pam's HarvestCraft (1.12.2zf > 1.12.2zg)  
+- Quark (1.6-177 > 1.6-179)  
+- Redstone Flux (2.1.0.6 > 2.1.1.1)  
+- SoundFilters (0.11_for_1.12 > 0.12_for_1.12)  
+- StorageDrawers (5.4.0 > 5.4.2)  
+- Thermal Dynamics (2.5.5.21 - 2.5.6.1)  
+- Thermal Expansion (5.5.4.43 > 5.5.7.1)  
+- Thermal Foundation (2.6.3.27 > 2.6.7.1)  
+- Tinker's Construct (2.13.0.179 > 2.13.0.183)  
+
+### Mods Added  
+- Building Gadgets 2.8.4  
+
+### Mods Removed  
+- PlusTiC  
+
+### Configuration Changes  
+- Configured CoFH to avoid duplicate ore gen.  
+- Turned off quark config command, reduced sleeping percentage to 1 for smp  
+
+
 ## Honing In Recipes Update 2: Mega Update
 ### Version 0.1.2
 ### Mods Updated  
@@ -10,7 +53,7 @@
 ### Mods Removed  
 - /dank/null  
 - Iron Backpacks  
-- Iron Chests  
+- Iron Chests   
 
 ### Configuration Changes  
 - Custom Main Menu configured and Discord & Github buttons added  
@@ -47,7 +90,7 @@
 ### Configuration Changes  
 - ExtraCells: Disabled In-Game Wiki mod integration  
 - ProjectE Added custom EMC to more items  
-- Dynamic Surroundings: Disabling the fog.  
+- Dynamic Surroundings: Disabled the fog.  
 - Finally added a Custom Main Menu image and links.
 
 ### Other Notes  
