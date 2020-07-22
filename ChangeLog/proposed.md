@@ -1,5 +1,5 @@
 # Homage
-## Mod Update: Mega Update 2 (world breaking)  
+## Mod Update: Mega Update 2  
 ### Version 0.2.0  
 ### Mods Updated  
 - /dank/null (1.7.89 > 1.7.101)  
